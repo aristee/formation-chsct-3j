@@ -1,0 +1,253 @@
+diapo 6
+
+ Tableau des MP
+
+RG 1  	Affections dues au plomb et à ses composés
+RG 2  	Maladies professionnelles causées par le mercure et ses composés
+RG 3  	Intoxication professionnelle par le tétrachloréthane
+RG 4  	Hémopathies provoquées par le benzène et tous les produits en renfermant
+RG 4 BIS 	Affections gastro-intestinales provoquées par le benzène, le toluène, les xylènes et tous les produits en renfermant
+RG 5  	Affections professionnelles liées au contact avec le phosphore et le sesquisulfure de phosphore
+RG 6  	Affections provoquées par les rayonnements ionisants
+RG 7  	Tétanos professionnel
+RG 8  	Affections causées par les ciments (alumino-silicates de calcium)
+RG 9  	Affections provoquées par les dérivés halogénés des hydrocarbures aromatiques
+RG 10  	Ulcérations et dermites provoquées par l'acide chromique, les chromates et bichromates alcalins, le chromate de zinc et le sulfate de chrome
+RG 10 BIS 	Affections respiratoires provoquées par l'acide chromique, les chromates et bichromates alcalins
+RG 10 TER 	Affections cancéreuses causées par l'acide chromique et les chromates et bichromates alcalins ou alcalinoterreux ainsi que par le chromate de zinc
+RG 11  	Intoxication professionnelle par le tétrachlorure de carbone
+RG 12  	Affections professionnelles provoquées par les hydrocarbures aliphatiques halogénés énumérés ci-après
+RG 13  	Intoxications professionnelles par les dérivés nitrés et chloronitrés des hydrocarbures benzéniques
+RG 14  	Affections provoquées par les dérivés nitrés du phénol (dinitrophénols, dinitro-orthocrésols, dinosebe), par le pentachlorophénol, les pentachlorophénates et par les dérivés halogénés de l'hydroxybenzonitrile (bromoxynil, ioxynil)
+RG 15  	Affections provoquées par les amines aromatiques, leurs sels et leurs dérivés notamment hydroxylés, halogénés, nitrés, nitrosés et sulfonés
+RG 15 BIS 	Affections de mécanisme allergique provoquées par les amines aromatiques, leurs sels, leurs dérivés notamment hydroxylés, halogénés, nitrés, nitrosés, sulfonés et les produits qui en contiennent à l'état libre
+RG 15 TER 	Lésions prolifératives de la vessie provoquées par les amines aromatiques suivantes et leurs sels
+RG 16  	Affections cutanées ou affections des muqueuses provoquées par les goudrons de houille, les huiles de houille(comprenant les fractions de distillation dites "phénoliques", "naphtaléniques", "acénaphténiques", "anthracéniques" et "chryséniques"), les brais de houille et les suies de combustion du charbon
+RG 16 BIS 	Affections cancéreuses provoquées par les goudrons de houille, les huiles de houille, les brais de houille et les suies de combustion du charbon
+RG 18  	Charbon
+RG 19  	Spirochétoses (à l'exception des tréponématoses)
+RG 20  	Affections professionnelles provoquées par l'arsenic et ses composés minéraux
+RG 20 BIS 	Cancer bronchique primitif provoqué par l'inhalation de poussières ou de vapeurs arsenicales
+RG 20 TER 	Cancer bronchique primitif provoqué par l'inhalation de poussières ou de vapeurs renfermant des arseno-pyrites aurifères
+RG 21  	Intoxication professionnelle par l'hydrogène arsénié
+RG 22  	Sulfocarbonisme professionnel
+RG 23  	Nystagmus professionnel
+RG 24  	Brucelloses professionnelles
+RG 25  	Affections consécutives à l'inhalation de poussières minérales renfermant de la silice cristalline (quartz, cristobalite, tridymite), des silicates cristallins (kaolin, talc), du graphite ou de la houille.
+RG 26  	Intoxication professionnelle par le bromure de méthyle
+RG 27  	Intoxication professionnelle par le chlorure de méthyle
+RG 28  	Ankylostomose professionnelle Anémie engendrée par l'ankylostome duodénal
+RG 29  	Lésions provoquées par des travaux effectués dans des milieux où la pression est supérieure à la pression atmosphérique
+RG 30  	Affections professionnelles consécutives à l'inhalation de poussières d'amiante
+RG 30 BIS 	Cancer broncho-pulmonaire provoqué par l'inhalation de poussières d'amiante
+RG 31  	Maladies professionnelles engendrées par les aminoglycosides, notamment par la streptomycine, la néomycine et leurs sels
+RG 32  	Affections professionnelles provoquées par le fluor, l'acide fluorhydrique et ses sels minéraux
+RG 33  	Maladies professionnelles dues au béryllium et à ses composés
+RG 34  	Affections provoquées par les phosphates, pyrophosphates et thiophosphates d'alcoyle, d'aryle ou d'alcoylaryle et autres organophosphorés anticholinestérasiques ainsi que par les phosphoramides et carbamates hétérocycliques anticholinestérasiques
+RG 36  	Affections provoquées par les huiles et graisses d'origine minérale ou de synthèse
+RG 36 BIS 	Affections cancéreuses provoquées par les dérivés suivants du pétrole : huiles minérales peu ou non raffinées et huiles minérales régénérées utilisées dans les opérations d'usinage et de traitement des métaux, extraits aromatiques, résidus de craquage, huiles moteur usagées ainsi que suies de combustion des produits pétroliers
+RG 37  	Affections cutanées professionnelles causées par les oxydes et les sels de nickel
+RG 37 BIS 	Affections respiratoires causées par les oxydes et les sels de nickel
+RG 37 TER 	Cancers provoqués par les opérations de grillage des mattes de nickel
+RG 38  	Maladies professionnelles engendrées par la chlorpromazine
+RG 39  	Maladies professionnelles engendrées par le bioxyde de manganèse
+RG 40  	Maladies dues aux bacilles tuberculeux et à certaines mycobactéries atypiques (Mycobacterium avium/intracellulare, Mycobacterium kansasii, Mycobacterium xenopi, Mycobacterium marinum, Mycobacterium fortuitum)
+RG 41  	Maladies engendrées par bétalactamines (notamment pénicillines et leurs sels) et les céphalosporines
+RG 42  	Atteinte auditive provoquée par les bruits lésionnels
+RG 43  	Affections provoquées par l'aldéhyde formique et ses polymères
+RG 43 BIS 	Affections cancéreuses provoquées par l'aldéhyde formique
+RG 44  	Affections consécutives à l'inhalation de poussières minérales ou de fumées, contenant des particules de fer ou d'oxyde de fer
+RG 44 BIS 	Affections consécutives au travail au fond dans les mines de fer
+RG 45  	Infections d'origine professionnelle par les virus des hépatites A, B, C, D et E
+RG 46  	Mycoses cutanées
+RG 47  	Affections professionnelles provoquées par les poussières de bois
+RG 49  	Affections cutanées provoquées par les amines aliphatiques, alicycliques ou les éthanolamines
+RG 49 BIS 	Affections respiratoires provoquées par les amines aliphatiques, les éthanolamines ou l'isophoronediamine
+RG 50  	Affections provoquées par la phénylhydrazine
+RG 51  	Maladies professionnelles provoquées par les résines époxydiques et leurs constituants (*)
+RG 52  	Affections provoquées par le chlorure de vinyle monomère. Durée d'exposition
+RG 53  	Affections dues aux rickettsies
+RG 54  	Poliomyélite
+RG 55  	Affections professionnelles dues aux amibes
+RG 56  	Rage professionnelle
+RG 57  	Affections périarticulaires provoquées par certains gestes et postures de travail
+RG 58  	Affections professionnelles provoquées par le travail à haute température
+RG 59  	Intoxications professionnelles par l'hexane
+RG 61  	Maladies professionnelles provoquées par le cadmium et ses composés
+RG 61 BIS 	Cancer broncho-pulmonaire provoqué par l’inhalation de poussières ou fumées renfermant du cadmium
+RG 62  	Affections professionnelles provoquées par les isocyanates organiques
+RG 63  	Affections provoquées par les enzymes
+RG 64  	Intoxication professionnelle par l'oxyde de carbone
+RG 65  	Lésions eczématiformes de mécanisme allergique
+RG 66  	Rhinites et asthmes professionnels
+RG 66 BIS 	Pneumopathies d'hypersensibilité
+RG 67  	Lésions de la cloison nasale provoquées par les poussières de chlorure de potassium dans les mines de potasse et leurs dépendances
+RG 68  	Tularémie
+RG 69  	Affections provoquées par les vibrations et chocs transmis par certaines machines-outils, outils et objets et par les chocs itératifs du talon de la main sur des éléments fixes
+RG 70  	Affections professionnelles provoquées par le cobalt et ses composés
+RG 70 BIS 	Affections respiratoires dues aux poussières de carbures métalliques frittés ou fondus contenant du cobalt
+RG 70 TER 	Affections cancéreuses broncho-pulmonaires primitives causées par l'inhalation de poussières de cobalt associées au carbure de tungstène avant frittage
+RG 71  	Affections oculaires dues au rayonnement thermique
+RG 71 BIS 	Affections oculaires dues au rayonnement thermique associé aux poussières
+RG 72  	Maladies résultant de l'exposition aux dérivés nitrés des glycols et du glycérol
+RG 73  	Maladies professionnelles causées par l'antimoine et ses dérivés
+RG 74  	Affections professionnelles provoquées par le furfural et l'alcool furfurylique
+RG 75  	Affections professionnelles résultant de l'exposition au sélénium et à ses dérivés minéraux
+RG 76  	Maladies liées à des agents infectieux ou parasitaires contractées en milieu d'hospitalisation et d'hospitalisation à domicile
+RG 77  	Périonyxis et onyxis
+RG 78  	Affections provoquées par le chlorure de sodium dans les mines de sel et leurs dépendances
+RG 79  	Lésions chroniques du ménisque
+RG 80  	Kératoconjonctivites virales
+RG 81  	Affections malignes provoquées par le bis(chlorométhyle)éther
+RG 82  	Affections provoquées par le méthacrylate de méthyle
+RG 83  	Lésions provoquées par les travaux effectués dans un milieu où la pression est inférieure à la pression atmosphérique et soumise à variations
+RG 84  	Affections engendrées par les solvants organiques liquides à usage professionnel
+RG 85  	Affection engendrée par l'un ou l'autre de ces produits : N-méthyl N'nitro N-nitrosoguanidine ; N-éthyl N'nitro N-nitrosoguanidine ; N-méthyl N-nitrosourée ; N-éthyl N-nitrosourée.
+RG 86  	Pasteurelloses
+RG 87  	Ornithose-psittacose
+RG 88  	Rouget du porc (Érysipéloïde de Baker-Rosenbach)
+RG 89  	Affection provoquée par l'halothane
+RG 90  	Affections respiratoires consécutives à l'inhalation de poussières textiles végétales
+RG 91  	Broncho-pneumopathie chronique obstructive du mineur de charbon
+RG 92  	Infections professionnelles à Streptococcus suis
+RG 93  	Lésions chroniques du segment antérieur de l'œil provoquées par l'exposition à des particules en circulation dans les puits de mine de charbon
+RG 94  	Broncho-pneumopathie chronique obstructive du mineur de fer
+RG 95  	Affections professionnelles de mécanisme allergique provoquées par les protéines du latex (ou caoutchouc naturel)
+RG 96  	Fièvres hémorragiques avec syndrome rénal dues aux agents infectieux du groupe hantavirus
+RG 97  	Affections chroniques du rachis lombaire provoquées par des vibrations de basses et moyennes fréquences transmises au corps entier
+RG 98  	Affections chroniques du rachis lombaire provoquées par la manutention manuelle de charges lourdes
+
+
+diapo 7
+* Commission régionale de reconnaissance des maladies professionnelles
+
+
+diapo 9
+du code de la Sécurité Sociale
+
+
+ Tableau des MP
+
+RG 1  	Affections dues au plomb et à ses composés
+RG 2  	Maladies professionnelles causées par le mercure et ses composés
+RG 3  	Intoxication professionnelle par le tétrachloréthane
+RG 4  	Hémopathies provoquées par le benzène et tous les produits en renfermant
+RG 4 BIS 	Affections gastro-intestinales provoquées par le benzène, le toluène, les xylènes et tous les produits en renfermant
+RG 5  	Affections professionnelles liées au contact avec le phosphore et le sesquisulfure de phosphore
+RG 6  	Affections provoquées par les rayonnements ionisants
+RG 7  	Tétanos professionnel
+RG 8  	Affections causées par les ciments (alumino-silicates de calcium)
+RG 9  	Affections provoquées par les dérivés halogénés des hydrocarbures aromatiques
+RG 10  	Ulcérations et dermites provoquées par l'acide chromique, les chromates et bichromates alcalins, le chromate de zinc et le sulfate de chrome
+RG 10 BIS 	Affections respiratoires provoquées par l'acide chromique, les chromates et bichromates alcalins
+RG 10 TER 	Affections cancéreuses causées par l'acide chromique et les chromates et bichromates alcalins ou alcalinoterreux ainsi que par le chromate de zinc
+RG 11  	Intoxication professionnelle par le tétrachlorure de carbone
+RG 12  	Affections professionnelles provoquées par les hydrocarbures aliphatiques halogénés énumérés ci-après
+RG 13  	Intoxications professionnelles par les dérivés nitrés et chloronitrés des hydrocarbures benzéniques
+RG 14  	Affections provoquées par les dérivés nitrés du phénol (dinitrophénols, dinitro-orthocrésols, dinosebe), par le pentachlorophénol, les pentachlorophénates et par les dérivés halogénés de l'hydroxybenzonitrile (bromoxynil, ioxynil)
+RG 15  	Affections provoquées par les amines aromatiques, leurs sels et leurs dérivés notamment hydroxylés, halogénés, nitrés, nitrosés et sulfonés
+RG 15 BIS 	Affections de mécanisme allergique provoquées par les amines aromatiques, leurs sels, leurs dérivés notamment hydroxylés, halogénés, nitrés, nitrosés, sulfonés et les produits qui en contiennent à l'état libre
+RG 15 TER 	Lésions prolifératives de la vessie provoquées par les amines aromatiques suivantes et leurs sels
+RG 16  	Affections cutanées ou affections des muqueuses provoquées par les goudrons de houille, les huiles de houille(comprenant les fractions de distillation dites "phénoliques", "naphtaléniques", "acénaphténiques", "anthracéniques" et "chryséniques"), les brais de houille et les suies de combustion du charbon
+RG 16 BIS 	Affections cancéreuses provoquées par les goudrons de houille, les huiles de houille, les brais de houille et les suies de combustion du charbon
+RG 18  	Charbon
+RG 19  	Spirochétoses (à l'exception des tréponématoses)
+RG 20  	Affections professionnelles provoquées par l'arsenic et ses composés minéraux
+RG 20 BIS 	Cancer bronchique primitif provoqué par l'inhalation de poussières ou de vapeurs arsenicales
+RG 20 TER 	Cancer bronchique primitif provoqué par l'inhalation de poussières ou de vapeurs renfermant des arseno-pyrites aurifères
+RG 21  	Intoxication professionnelle par l'hydrogène arsénié
+RG 22  	Sulfocarbonisme professionnel
+RG 23  	Nystagmus professionnel
+RG 24  	Brucelloses professionnelles
+RG 25  	Affections consécutives à l'inhalation de poussières minérales renfermant de la silice cristalline (quartz, cristobalite, tridymite), des silicates cristallins (kaolin, talc), du graphite ou de la houille.
+RG 26  	Intoxication professionnelle par le bromure de méthyle
+RG 27  	Intoxication professionnelle par le chlorure de méthyle
+RG 28  	Ankylostomose professionnelle Anémie engendrée par l'ankylostome duodénal
+RG 29  	Lésions provoquées par des travaux effectués dans des milieux où la pression est supérieure à la pression atmosphérique
+RG 30  	Affections professionnelles consécutives à l'inhalation de poussières d'amiante
+RG 30 BIS 	Cancer broncho-pulmonaire provoqué par l'inhalation de poussières d'amiante
+RG 31  	Maladies professionnelles engendrées par les aminoglycosides, notamment par la streptomycine, la néomycine et leurs sels
+RG 32  	Affections professionnelles provoquées par le fluor, l'acide fluorhydrique et ses sels minéraux
+RG 33  	Maladies professionnelles dues au béryllium et à ses composés
+RG 34  	Affections provoquées par les phosphates, pyrophosphates et thiophosphates d'alcoyle, d'aryle ou d'alcoylaryle et autres organophosphorés anticholinestérasiques ainsi que par les phosphoramides et carbamates hétérocycliques anticholinestérasiques
+RG 36  	Affections provoquées par les huiles et graisses d'origine minérale ou de synthèse
+RG 36 BIS 	Affections cancéreuses provoquées par les dérivés suivants du pétrole : huiles minérales peu ou non raffinées et huiles minérales régénérées utilisées dans les opérations d'usinage et de traitement des métaux, extraits aromatiques, résidus de craquage, huiles moteur usagées ainsi que suies de combustion des produits pétroliers
+RG 37  	Affections cutanées professionnelles causées par les oxydes et les sels de nickel
+RG 37 BIS 	Affections respiratoires causées par les oxydes et les sels de nickel
+RG 37 TER 	Cancers provoqués par les opérations de grillage des mattes de nickel
+RG 38  	Maladies professionnelles engendrées par la chlorpromazine
+RG 39  	Maladies professionnelles engendrées par le bioxyde de manganèse
+RG 40  	Maladies dues aux bacilles tuberculeux et à certaines mycobactéries atypiques (Mycobacterium avium/intracellulare, Mycobacterium kansasii, Mycobacterium xenopi, Mycobacterium marinum, Mycobacterium fortuitum)
+RG 41  	Maladies engendrées par bétalactamines (notamment pénicillines et leurs sels) et les céphalosporines
+RG 42  	Atteinte auditive provoquée par les bruits lésionnels
+RG 43  	Affections provoquées par l'aldéhyde formique et ses polymères
+RG 43 BIS 	Affections cancéreuses provoquées par l'aldéhyde formique
+RG 44  	Affections consécutives à l'inhalation de poussières minérales ou de fumées, contenant des particules de fer ou d'oxyde de fer
+RG 44 BIS 	Affections consécutives au travail au fond dans les mines de fer
+RG 45  	Infections d'origine professionnelle par les virus des hépatites A, B, C, D et E
+RG 46  	Mycoses cutanées
+RG 47  	Affections professionnelles provoquées par les poussières de bois
+RG 49  	Affections cutanées provoquées par les amines aliphatiques, alicycliques ou les éthanolamines
+RG 49 BIS 	Affections respiratoires provoquées par les amines aliphatiques, les éthanolamines ou l'isophoronediamine
+RG 50  	Affections provoquées par la phénylhydrazine
+RG 51  	Maladies professionnelles provoquées par les résines époxydiques et leurs constituants (*)
+RG 52  	Affections provoquées par le chlorure de vinyle monomère. Durée d'exposition
+RG 53  	Affections dues aux rickettsies
+RG 54  	Poliomyélite
+RG 55  	Affections professionnelles dues aux amibes
+RG 56  	Rage professionnelle
+RG 57  	Affections périarticulaires provoquées par certains gestes et postures de travail
+RG 58  	Affections professionnelles provoquées par le travail à haute température
+RG 59  	Intoxications professionnelles par l'hexane
+RG 61  	Maladies professionnelles provoquées par le cadmium et ses composés
+RG 61 BIS 	Cancer broncho-pulmonaire provoqué par l’inhalation de poussières ou fumées renfermant du cadmium
+RG 62  	Affections professionnelles provoquées par les isocyanates organiques
+RG 63  	Affections provoquées par les enzymes
+RG 64  	Intoxication professionnelle par l'oxyde de carbone
+RG 65  	Lésions eczématiformes de mécanisme allergique
+RG 66  	Rhinites et asthmes professionnels
+RG 66 BIS 	Pneumopathies d'hypersensibilité
+RG 67  	Lésions de la cloison nasale provoquées par les poussières de chlorure de potassium dans les mines de potasse et leurs dépendances
+RG 68  	Tularémie
+RG 69  	Affections provoquées par les vibrations et chocs transmis par certaines machines-outils, outils et objets et par les chocs itératifs du talon de la main sur des éléments fixes
+RG 70  	Affections professionnelles provoquées par le cobalt et ses composés
+RG 70 BIS 	Affections respiratoires dues aux poussières de carbures métalliques frittés ou fondus contenant du cobalt
+RG 70 TER 	Affections cancéreuses broncho-pulmonaires primitives causées par l'inhalation de poussières de cobalt associées au carbure de tungstène avant frittage
+RG 71  	Affections oculaires dues au rayonnement thermique
+RG 71 BIS 	Affections oculaires dues au rayonnement thermique associé aux poussières
+RG 72  	Maladies résultant de l'exposition aux dérivés nitrés des glycols et du glycérol
+RG 73  	Maladies professionnelles causées par l'antimoine et ses dérivés
+RG 74  	Affections professionnelles provoquées par le furfural et l'alcool furfurylique
+RG 75  	Affections professionnelles résultant de l'exposition au sélénium et à ses dérivés minéraux
+RG 76  	Maladies liées à des agents infectieux ou parasitaires contractées en milieu d'hospitalisation et d'hospitalisation à domicile
+RG 77  	Périonyxis et onyxis
+RG 78  	Affections provoquées par le chlorure de sodium dans les mines de sel et leurs dépendances
+RG 79  	Lésions chroniques du ménisque
+RG 80  	Kératoconjonctivites virales
+RG 81  	Affections malignes provoquées par le bis(chlorométhyle)éther
+RG 82  	Affections provoquées par le méthacrylate de méthyle
+RG 83  	Lésions provoquées par les travaux effectués dans un milieu où la pression est inférieure à la pression atmosphérique et soumise à variations
+RG 84  	Affections engendrées par les solvants organiques liquides à usage professionnel
+RG 85  	Affection engendrée par l'un ou l'autre de ces produits : N-méthyl N'nitro N-nitrosoguanidine ; N-éthyl N'nitro N-nitrosoguanidine ; N-méthyl N-nitrosourée ; N-éthyl N-nitrosourée.
+RG 86  	Pasteurelloses
+RG 87  	Ornithose-psittacose
+RG 88  	Rouget du porc (Érysipéloïde de Baker-Rosenbach)
+RG 89  	Affection provoquée par l'halothane
+RG 90  	Affections respiratoires consécutives à l'inhalation de poussières textiles végétales
+RG 91  	Broncho-pneumopathie chronique obstructive du mineur de charbon
+RG 92  	Infections professionnelles à Streptococcus suis
+RG 93  	Lésions chroniques du segment antérieur de l'œil provoquées par l'exposition à des particules en circulation dans les puits de mine de charbon
+RG 94  	Broncho-pneumopathie chronique obstructive du mineur de fer
+RG 95  	Affections professionnelles de mécanisme allergique provoquées par les protéines du latex (ou caoutchouc naturel)
+RG 96  	Fièvres hémorragiques avec syndrome rénal dues aux agents infectieux du groupe hantavirus
+RG 97  	Affections chroniques du rachis lombaire provoquées par des vibrations de basses et moyennes fréquences transmises au corps entier
+RG 98  	Affections chroniques du rachis lombaire provoquées par la manutention manuelle de charges lourdes
+
+
+diapo 48
+* (article L.452-3 du code de la sécurité sociale) 
+
+
+
+
+
